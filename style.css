@@ -1,0 +1,11 @@
+/* install "Open Props" */
+@import url(https://open-props.style/);
+
+
+* {
+    outline: 2px dotted orange;
+}
+
+h1 {
+    background: var(--lime-4);
+}
