@@ -7,5 +7,9 @@
 }
 
 h1 {
-    background: var(--lime-4);
+    background: var(--gradient-12);
+}
+
+body > h1:hover {
+ background: red;
 }
